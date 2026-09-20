@@ -4,6 +4,6 @@ Implementing numerical methods and mathematical modeling in Python completed for
 | Chapter | Topic |
 |---------|-------|
 | [Chpt 1](HW/Chapter%201) | 1.2: Elements of Linear Algebra <br> 1.3: Linear Regression <br> 1.4: Principal Component Analysis|
-| [Chpt 2](HW/Chapter%202) | Probability & Random Variables|
+| [Chpt 2](HW/Chapter%202) | 2.2: Probability & Random Variables <br>|
 
 *Updated as the semester progresses.*
