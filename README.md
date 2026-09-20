@@ -3,7 +3,7 @@ Implementing numerical methods and mathematical modeling in Python completed for
 ## Contents
 | Chapter | Topic |
 |---------|-------|
-| [Chpt 1](HW/Chapter%201) | Applications of Linear Algebra fundamentals\n, Eigenvalues and Eigenvectors, Single-Value Decomposition, and Principal Component Analysis|
+| [Chpt 1](HW/Chapter%201) | Applications of Linear Algebra fundamentals <br> Eigenvalues and Eigenvectors <br> Single-Value Decomposition <br> and Principal Component Analysis|
 | [Chpt 2](HW/Chapter%202) | Probability & Random Variables|
 
 *Updated as the semester progresses.*
