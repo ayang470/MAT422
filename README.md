@@ -1,4 +1,4 @@
-# MAT 422 — Applied Computational Mathematics
+# MAT 422: Applied Computational Mathematics
 Implementing numerical methods and mathematical modeling in Python completed for MAT 422 at Arizona State University.
 ## Contents
 | Chapter | Topic |
