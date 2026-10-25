@@ -6,7 +6,7 @@ These chapters cover distinct concepts in mathematical modeling that help data s
 |---------|-------|
 | [Chpt 1](HW/Chapter%201) | 1.2: Elements of Linear Algebra <br> 1.3: Linear Regression <br> 1.4: Principal Component Analysis|
 | [Chpt 2](HW/Chapter%202) | 2.2: Probability & Random Variables <br> 2.3: Independent Variables & Random Samples <br> 2.4: Maximum Likelihood Estimation <br>|
-| [Chpt 3](HW/Chapter%203) | 3.2: Continuity & Differentiation <br> 3.3: Optimization and Gradient Descent <br>|
+| [Chpt 3](HW/Chapter%203) | 3.2: Continuity & Differentiation <br> 3.3: Optimization and Gradient Descent <br> 3.4: Logistical Regression <br>|
 
 ## Projects
 
